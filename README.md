@@ -11,7 +11,7 @@ printing palindromes, generating anagrams of a given word and many more.
 - Print palindromes
 - Print anagrams of a given word
 - Guess a word from a given definition
-- Find triagrams
+- Find trigrams
 
 **Technologies used:**
 - C++ : The C++ programming language is used to implement the application's core functionalities.
